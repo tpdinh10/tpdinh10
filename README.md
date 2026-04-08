@@ -1,4 +1,8 @@
 Hi, I’m Kate Dinh
 CSULB Computer Science, May 2026 (GPA 3.9)
-Backend SWE: Node Express MongoDB JWT RBAC
-Featured projects: JobPilot API (deployed), SecureAccess API (RBAC)
+
+Backend Engineer → AI
+Building scalable APIs and AI-powered systems
+
+Node.js | Express | MongoDB | JWT | RBAC
+Projects: JobPilot API (deployed), SecureAccess API, AI RAG Chatbot
