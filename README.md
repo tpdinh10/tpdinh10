@@ -1,11 +1,10 @@
-
 # Hi, I'm Kate 👋
 
-🎓 B.S. Computer Science — California State University, Long Beach (May 2026, GPA 3.9)
+🎓 **B.S. Computer Science** — California State University, Long Beach (May 2026, GPA 3.9)
 
-💻 Backend Software Engineering | Applied AI & LLM Applications
+💻 **Full Stack Software Engineering | Backend Development | Applied AI & LLM Applications**
 
-I build backend systems and AI-powered applications using Python, FastAPI, PostgreSQL, Node.js, and OpenAI APIs. My projects focus on reliable APIs, database consistency, authentication, and practical AI integration.
+I'm a recent Computer Science graduate who enjoys building practical web applications and AI-powered tools. I work with Python, JavaScript, React, FastAPI, Node.js, and PostgreSQL, focusing on reliable APIs, database design, authentication, and AI integration.
 
 ## 🚀 Featured Projects
 
@@ -13,38 +12,43 @@ I build backend systems and AI-powered applications using Python, FastAPI, Postg
 
 **Python · FastAPI · PostgreSQL · SQLAlchemy · React · Docker**
 
-- Built and deployed a full-stack inventory and order management application.
-- Implemented concurrency-safe inventory updates, SQL transactions, and JWT/RBAC authentication.
-- Added 12 passing backend tests and GitHub Actions CI.
+- Built and deployed a full-stack order and inventory management application.
+- Implemented concurrency-safe inventory updates, SQL transactions, JWT authentication, and role-based access control (RBAC).
+- Added 12 passing backend tests with pytest and automated CI using GitHub Actions.
 - **[Live Demo](https://orderflow-platform-beryl.vercel.app/)**
 
-### [AI RAG Chatbot](https://github.com/tpdinh10/ai-rag-chatbot)
+### [SupportDesk AI — AI Customer Support Workflow](https://github.com/tpdinh10/supportdesk-ai)
 
-**Python · FastAPI · OpenAI API · FAISS**
+**Python · FastAPI · PostgreSQL · pgvector · React · Ollama**
 
-- Built a document question-answering system using RAG, embeddings, and vector similarity search.
-- Implemented document ingestion, retrieval, and LLM-generated responses.
+- Developed a full-stack AI-powered customer support application with RAG and semantic search.
+- Implemented AI-generated response drafts, safety validation, and human approval workflows.
+- Built audit logging and structured workflows to support reliable, human-supervised AI operations.
 
-### [JobPilot AI](https://github.com/tpdinh10/jobpilot-ai)
+### [JobPilot AI — AI Job Application Platform](https://github.com/tpdinh10/jobpilot-ai)
 
-**Node.js · Express · MongoDB · OpenAI API**
+**JavaScript · Node.js · Express.js · MongoDB · OpenAI API**
 
-- Developed LLM-powered resume analysis, job matching, and application content generation.
-- Built REST APIs with JWT authentication and user-specific data access.
+- Developed REST APIs for AI-powered resume analysis, job matching, and personalized application content.
+- Integrated OpenAI API for LLM-generated recommendations and content.
+- Implemented JWT authentication and user-specific data access.
 
 ## 🛠 Technical Skills
 
 **Languages:** Python, JavaScript, TypeScript, C++
 
+**Frontend:** React, HTML, CSS
+
 **Backend:** FastAPI, Node.js, Express.js, REST APIs, SQLAlchemy
 
-**Databases:** PostgreSQL, MongoDB, FAISS
+**Databases:** PostgreSQL, MongoDB, pgvector, FAISS
 
-**AI/LLM:** OpenAI API, RAG, Embeddings, Semantic Search
+**AI/LLM:** OpenAI API, Ollama, RAG, Embeddings, Semantic Search, LLM Integration
 
-**Tools:** Docker, Git, GitHub Actions, pytest
+**Security:** JWT Authentication, Role-Based Access Control (RBAC)
+
+**Testing & DevOps:** pytest, Automated Testing, Docker, Git, GitHub Actions, CI/CD
 
 ## 📫 Connect
 
-[LinkedIn](https://www.linkedin.com/in/kate-dinh-10969b3b2/)
-
+**[LinkedIn](https://www.linkedin.com/in/kate-dinh-10969b3b2/)**
